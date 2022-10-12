@@ -15,5 +15,7 @@ syntax on
 set number
 " showing the column number
 set ruler
-
+" line width
 set textwidth=80
+" allow paste from clipboard
+set paste
